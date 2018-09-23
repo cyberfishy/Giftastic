@@ -1,0 +1,44 @@
+.header {
+    text-align: center;
+    font-family: 'Baloo Tammudu', cursive;
+    font-size: 5rem;
+}
+
+img {
+    display: block;
+    border: solid 1px gray;
+    box-shadow: 4px 4px 4px -2px gray;
+}
+
+#loadMore {
+    display: none;
+}
+
+.topics {
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 1rem;
+    border-bottom: solid 2px gray;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #97cbff;
+    border-radius: .9rem;
+}
+
+.btn-secondary {
+    color: #000;
+    background-color: #97cbff;
+    border-color: #97cbff;
+}
+
+.clear {
+    margin: 0;
+    height: 15px
+}
+
+/* .Fav {
+    display: none;
+} */
+
